@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>ImagesBayda&Lobachev</title>
+	<title>ImagesBaydaLobachev</title>
 	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
